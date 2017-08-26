@@ -66,7 +66,7 @@ public class ValidateAction extends ActionSupport {
 	}
 	
 	else  {
-		addActionError("Le compte saisi est invalid.Merci de réessayer !!");
+		addActionError("Le compte saisi est invalide. Merci de réessayer !!");
 		return INPUT;
 	}
 }
