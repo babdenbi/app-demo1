@@ -11,6 +11,7 @@ public class Customer {
 	private String adresse3;
 	private String ville;
 	private String pays;
+	private int age;
 	public long getId() {
 		return id;
 	}
@@ -65,5 +66,12 @@ public class Customer {
 	public void setPays(String pays) {
 		this.pays = pays;
 	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	
 
 }
