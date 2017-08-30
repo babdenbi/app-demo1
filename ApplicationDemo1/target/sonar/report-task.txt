@@ -1,0 +1,5 @@
+projectKey=com.projects:ApplicationDemo1
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.projects:ApplicationDemo1
+ceTaskId=AV4wMLIgZFCXmrjo8X19
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV4wMLIgZFCXmrjo8X19
